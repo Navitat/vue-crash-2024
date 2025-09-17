@@ -12,5 +12,6 @@ defineProps({
 <template>
   <div :class="`${bg} p-6 rounded-lg shadow-md`">
     <slot></slot>
+    <!-- slot are props.children on react -->
   </div>
 </template>
