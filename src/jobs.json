@@ -85,31 +85,17 @@
       }
     },
     {
-      "id": "bd7d",
-      "title": "Richard Weber",
+      "id": "ea9a",
+      "title": "Garrison Fry",
       "type": "Remote",
-      "location": "Voluptates aut occae",
-      "description": "Ea eum ut sunt id q",
-      "salary": "$50K - $60K",
+      "location": "Sit labore consecte",
+      "description": "Quod nemo dolores ut",
+      "salary": "$175K - $200K",
       "company": {
-        "name": "Franklin Zamora Plc",
-        "description": "Natus est quo exerc",
-        "contactEmail": "saxacil@mailinator.com",
-        "contactPhone": "+1 (109) 224-7696"
-      }
-    },
-    {
-      "id": "6c8d",
-      "title": "Vue success",
-      "type": "Remote",
-      "location": "Voluptatem mollitia ",
-      "description": "Consequatur consequ",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "Delaney and Branch Associates",
-        "description": "Amet distinctio Ea",
-        "contactEmail": "cerosy@mailinator.com",
-        "contactPhone": "+1 (848) 729-5891"
+        "name": "Beck Simpson Associates",
+        "description": "Blanditiis in possim",
+        "contactEmail": "botypi@mailinator.com",
+        "contactPhone": "+1 (997) 975-8236"
       }
     }
   ]
