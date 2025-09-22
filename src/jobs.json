@@ -97,6 +97,20 @@
         "contactEmail": "saxacil@mailinator.com",
         "contactPhone": "+1 (109) 224-7696"
       }
+    },
+    {
+      "id": "6c8d",
+      "title": "Vue success",
+      "type": "Remote",
+      "location": "Voluptatem mollitia ",
+      "description": "Consequatur consequ",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Delaney and Branch Associates",
+        "description": "Amet distinctio Ea",
+        "contactEmail": "cerosy@mailinator.com",
+        "contactPhone": "+1 (848) 729-5891"
+      }
     }
   ]
 }
